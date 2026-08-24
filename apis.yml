@@ -1,0 +1,52 @@
+name: WhatsApp Data
+description: >-
+  Unofficial third-party WhatsApp identity/profile lookup REST API resold through the RapidAPI marketplace. Offers
+  phone-number-on-WhatsApp verification, profile display name retrieval, and profile picture/avatar fetching. Not
+  affiliated with WhatsApp/Meta.
+url: https://raw.githubusercontent.com/api-evangelist/whatsapp-data/refs/heads/main/apis.yml
+created: '2026-08-24'
+modified: '2026-08-24'
+specificationVersion: '0.21'
+tags:
+  - whatsapp
+  - messenger
+  - profile
+  - picture
+  - avatar
+  - dp
+  - messaging
+  - identity-verification
+  - phone-lookup
+  - osint
+  - data-enrichment
+apis:
+  - name: WhatsApp Data API
+    description: >-
+      RapidAPI-hosted REST API for WhatsApp number verification, profile display name, and profile picture lookup.
+      Documentation is served via the RapidAPI listing's interactive Endpoints/Playground tabs; no downloadable
+      machine-readable contract is published.
+    humanURL: https://rapidapi.com/convapi-convapi-default/api/whatsapp-data10
+    baseURL: https://whatsapp-data10.p.rapidapi.com
+    tags:
+      - whatsapp
+      - messenger
+      - profile
+      - picture
+      - avatar
+      - dp
+      - messaging
+      - identity-verification
+      - phone-lookup
+      - osint
+      - data-enrichment
+    properties:
+      - type: Documentation
+        url: https://rapidapi.com/convapi-convapi-default/api/whatsapp-data10
+maintainers:
+  - FN: convapi
+    url: https://rapidapi.com/convapi-convapi-default
+generated:
+  by: apis.io/add
+  model: claude-opus-4-8
+  confidence: 70
+  at: '2026-08-24T06:18:21.894Z'
