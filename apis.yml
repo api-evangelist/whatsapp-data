@@ -19,6 +19,18 @@ created: '2026-08-24'
 modified: '2026-08-24'
 specificationVersion: '0.21'
 tags:
+  - WhatsApp
+  - Messenger
+  - Profile
+  - Picture
+  - Avatar
+  - dp
+  - Messaging
+  - Identity Verification
+  - Phone Lookup
+  - OSINT
+  - Data Enrichment
+tags_raw:
   - whatsapp
   - messenger
   - profile
@@ -39,6 +51,18 @@ apis:
     humanURL: https://rapidapi.com/convapi-convapi-default/api/whatsapp-data10
     baseURL: https://whatsapp-data10.p.rapidapi.com
     tags:
+      - WhatsApp
+      - Messenger
+      - Profile
+      - Picture
+      - Avatar
+      - dp
+      - Messaging
+      - Identity Verification
+      - Phone Lookup
+      - OSINT
+      - Data Enrichment
+    tags_raw:
       - whatsapp
       - messenger
       - profile
