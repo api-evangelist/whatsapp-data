@@ -21,9 +21,9 @@ specificationVersion: '0.21'
 tags:
   - WhatsApp
   - Messenger
-  - Profile
+  - Profiles
   - Picture
-  - Avatar
+  - Avatars
   - dp
   - Messaging
   - Identity Verification
@@ -53,9 +53,9 @@ apis:
     tags:
       - WhatsApp
       - Messenger
-      - Profile
+      - Profiles
       - Picture
-      - Avatar
+      - Avatars
       - dp
       - Messaging
       - Identity Verification
